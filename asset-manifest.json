@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mydrumpad/static/css/main.2a0697ce.css",
+    "main.js": "/mydrumpad/static/js/main.7d03d423.js",
+    "index.html": "/mydrumpad/index.html",
+    "main.2a0697ce.css.map": "/mydrumpad/static/css/main.2a0697ce.css.map",
+    "main.7d03d423.js.map": "/mydrumpad/static/js/main.7d03d423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0697ce.css",
+    "static/js/main.7d03d423.js"
+  ]
+}
